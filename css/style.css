@@ -49,8 +49,7 @@ body {
 }
 
 img {
-	display: block;
-    max-width: 100%;
+	max-width: 100%;
 }
 
 .list-reset {
@@ -387,20 +386,20 @@ img {
 	opacity: 1;
 }
 
-.social-link-facebook {
+.social-link-fb {
 	background-image: url("../img/facebook.svg");
-	background-size: 9px auto;
+	background-size: 8px auto;
 }
 
-.social-link-twitter {
+.social-link-tw {
 	background-image: url("../img/twitter.svg");
 }
 
-.social-link-google-plus {
+.social-link-g {
 	background-image: url("../img/google-plus.svg");
 }
 
-.social-linkedin {
+.social-link-in {
 	background-image: url("../img/linkedin.svg");
 }
 
